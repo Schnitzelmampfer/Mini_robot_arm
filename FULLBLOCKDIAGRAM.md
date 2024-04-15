@@ -1,7 +1,6 @@
 
 <HTML>
 <HEAD>
-<TITLE>main.vi</TITLE>
 <META NAME="Author" CONTENT="">
 <META NAME="GENERATOR" CONTENT="G Development Environment">
 </HEAD>
