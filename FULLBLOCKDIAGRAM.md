@@ -35,8 +35,8 @@
 <HR>
 <A NAME="Servo_Write.vi"></A><H2>Servo_Write.vi</H2>
 <P>Takes a Target Value in Servo Control from 0 to 180 (degrees) and sends the according pulse length and servo index (1 to 4) to the controller.</P>
-<P><IMG SRC="Servo__Writec.png" ALT="Servo_Write.vi"></P>
-<P><IMG SRC="Servo__Writep.png" ALT="Servo_Write.vi"></P>
-<P><IMG SRC="Servo__Writed.png" ALT="Servo_Write.vi"></P>
+<P><IMG SRC="Block_Diagram/Servo__Writec.png" ALT="Servo_Write.vi"></P>
+<P><IMG SRC="Block_Diagram/Servo__Writep.png" ALT="Servo_Write.vi"></P>
+<P><IMG SRC="Block_Diagram/Servo__Writed.png" ALT="Servo_Write.vi"></P>
 </BODY>
 </HTML>
